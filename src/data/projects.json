@@ -1,0 +1,48 @@
+{
+  "_schema": {
+    "explanation": "This file contains the projects array. Each project object fields:\n - id: unique string id\n - title: project title\n - description: short 2-3 sentence summary\n - tech: array of tech tag strings\n - featured: boolean (if true, visually highlighted)\n - repo: GitHub repo URL\n - demo: optional live demo URL (null if none)\n - image: optional thumbnail URL (null if none)",
+    "note": "Edit the array below to add or change projects. Keep the _schema property for guidance."
+  },
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "Entrika — Reclaim your Digital Identity",
+      "description": "An application that allows users to exercise informed consent about their digital indentity by understanding how a company's terms of service and privacy policy impact their data and rights. Built with Ruby on Rails, PostgreSQL, and vanilla JavaScript.",
+      "tech": ["Ruby on Rails", "PostgreSQL", "JavaScript"],
+      "featured": true,
+      "repo": "https://github.com/fi11theblanks/entrika",
+      "demo": null,
+      "image": "/dashboard_top.png"
+    },
+    {
+      "id": "project-2",
+      "title": "Who is the Villain? — AI-Powered Social Game",
+      "description": "A fun social website where an AI judge evaluates participants's past questionable deeds. Built with Ruby on Rails and OpenAI's API, it demonstrates my backend skills and interest in AI integration.",
+      "tech": ["Ruby on Rails"],
+      "featured": true,
+      "repo": "https://github.com/LhordeS/who-is-the-villain",
+      "demo": null,
+      "image": "/home.png"
+    },
+    {
+      "id": "project-3",
+      "title": "Trading Journal — My first Rails app",
+      "description": "A barebones trading journal app I built to learn Ruby on Rails. It allows users to log trades with details like entry/exit points, size, and notes. The project helped me grasp Rails fundamentals and MVC architecture.",
+      "tech": ["Rails"],
+      "featured": false,
+      "repo": "https://github.com/LhordeS/trading-journal",
+      "demo": null,
+      "image": "/TradingJournal_trades.png"
+    },
+    {
+      "id": "project-4",
+      "title": "Portfolio Website",
+      "description": "This portfolio itself — built with Vite, React and a static JSON content layer for easy updates.",
+      "tech": ["React", "Vite", "Bootstrap"],
+      "featured": false,
+      "repo": "https://github.com/LhordeS/portfolio",
+      "demo": null,
+      "image": "/projects.png"
+    }
+  ]
+}

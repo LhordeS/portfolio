@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "skills": ["Ruby", "JavaScript", "Solidity", "SQL"]
+    },
+    {
+      "name": "Frameworks",
+      "skills": ["Ruby on Rails", "React"]
+    },
+    {
+      "name": "Databases",
+      "skills": ["PostgreSQL"]
+    },
+    {
+      "name": "Tools",
+      "skills": ["Git", "Docker", "Heroku"]
+    }
+  ]
+}
