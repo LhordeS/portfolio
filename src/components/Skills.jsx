@@ -5,7 +5,7 @@ import skillsData from '../data/skills.json'
 export default function Skills(){
   const cats = skillsData.categories || []
   return (
-    <section id="skills" className="section bg-light">
+    <section id="skills" className="section">
       <div className="container">
         <h2>Skills</h2>
         <div className="row">

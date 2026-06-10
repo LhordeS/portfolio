@@ -14,8 +14,8 @@ export default function Projects(){
         <h2>Projects</h2>
         <div className="row gy-4">
           {projects.map(p=> (
-            <div className="col-12 col-md-6" key={p.id}>
-              <ProjectCard project={p} />
+            <div className="col-12 col-md-6 d-flex" key={p.id}>
+              <ProjectCard project={p} className="w-100"/>
             </div>
           ))}
         </div>

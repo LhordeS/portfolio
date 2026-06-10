@@ -12,7 +12,7 @@ export default function Header({ active, onNav }){
   ]
 
   return (
-    <nav className="navbar navbar-expand-lg sticky-top bg-white" aria-label="Main navigation">
+    <nav className="navbar navbar-expand-lg sticky-top" aria-label="Main navigation">
       <div className="container">
         <a className="navbar-brand" href="#hero">Alain Mimeault</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu" aria-controls="navMenu" aria-expanded="false" aria-label="Toggle navigation">

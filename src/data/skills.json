@@ -2,11 +2,11 @@
   "categories": [
     {
       "name": "Languages",
-      "skills": ["Ruby", "JavaScript", "Solidity", "SQL"]
+      "skills": ["Ruby", "JavaScript", "TypeScript", "SQL"]
     },
     {
       "name": "Frameworks",
-      "skills": ["Ruby on Rails", "React"]
+      "skills": ["Ruby on Rails", "React", "Bootstrap"]
     },
     {
       "name": "Databases",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Tools",
-      "skills": ["Git", "Docker", "Heroku"]
+      "skills": ["Git", "Heroku"]
     }
   ]
 }
