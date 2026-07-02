@@ -36,7 +36,7 @@
     },
     {
       "id": "project-4",
-      "title": "Who is the Villain? — You Might Be the Guity One!",
+      "title": "Who is the Villain? — You Might Be the Guilty One!",
       "description": "A fun social website where an AI judge evaluates participants's past questionable deeds. Built with Ruby on Rails and OpenAI's API, it demonstrates my backend skills and interest in AI integration.",
       "tech": ["Ruby on Rails", "PostgreSQL", "OpenAI"],
       "featured": false,
