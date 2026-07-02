@@ -26,13 +26,13 @@
     },
     {
       "id": "project-3",
-      "title": "Trading Journal — My first Rails app",
-      "description": "A barebones trading journal app I built to learn Ruby on Rails. It allows users to log trades with details like entry/exit points, size, and notes. The project helped me grasp Rails fundamentals and MVC architecture.",
+      "title": "TradingEdge — A market Intelligence Platform",
+      "description": "A platform that will detect the presence of predefined trading setups for a given day, and determine their historical profitability in similar market conditions",
       "tech": ["Rails"],
       "featured": false,
-      "repo": "https://github.com/LhordeS/trading-journal",
+      "repo": "https://github.com/LhordeS/trading-edge",
       "demo": null,
-      "image": "/TradingJournal_trades.png"
+      "image": "/TradingEdge_screenshot.png"
     },
     {
       "id": "project-4",
