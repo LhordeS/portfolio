@@ -5,7 +5,7 @@
   },
   "projects": [
     {
-      "id": "project-3",
+      "id": "project-1",
       "title": "TradingEdge — A market Intelligence Platform",
       "description": "A platform that will detect the presence of predefined trading setups for a given day, and determine their historical profitability in similar market conditions",
       "tech": ["Ruby on Rails", "JavaScript", "Python"],
@@ -15,7 +15,7 @@
       "image": "/TradingEdge_screenshot.png"
     },
     {
-      "id": "project-1",
+      "id": "project-2",
       "title": "Entrika — Reclaim your Digital Identity",
       "description": "An application that allows users to exercise informed consent about their digital indentity by understanding how a company's terms of service and privacy policy impact their data and rights. Built with Ruby on Rails, PostgreSQL, and vanilla JavaScript.",
       "tech": ["Ruby on Rails", "PostgreSQL", "JavaScript"],
@@ -25,7 +25,7 @@
       "image": "/dashboard_top.png"
     },
     {
-      "id": "project-2",
+      "id": "project-3",
       "title": "Who is the Villain? — AI-Powered Social Game",
       "description": "A fun social website where an AI judge evaluates participants's past questionable deeds. Built with Ruby on Rails and OpenAI's API, it demonstrates my backend skills and interest in AI integration.",
       "tech": ["Ruby on Rails"],
