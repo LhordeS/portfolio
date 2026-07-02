@@ -5,6 +5,16 @@
   },
   "projects": [
     {
+      "id": "project-3",
+      "title": "TradingEdge — A market Intelligence Platform",
+      "description": "A platform that will detect the presence of predefined trading setups for a given day, and determine their historical profitability in similar market conditions",
+      "tech": ["Ruby on Rails", "JavaScript", "Python"],
+      "featured": false,
+      "repo": "https://github.com/LhordeS/trading-edge",
+      "demo": null,
+      "image": "/TradingEdge_screenshot.png"
+    },
+    {
       "id": "project-1",
       "title": "Entrika — Reclaim your Digital Identity",
       "description": "An application that allows users to exercise informed consent about their digital indentity by understanding how a company's terms of service and privacy policy impact their data and rights. Built with Ruby on Rails, PostgreSQL, and vanilla JavaScript.",
@@ -23,16 +33,6 @@
       "repo": "https://github.com/LhordeS/who-is-the-villain",
       "demo": null,
       "image": "/home.png"
-    },
-    {
-      "id": "project-3",
-      "title": "TradingEdge — A market Intelligence Platform",
-      "description": "A platform that will detect the presence of predefined trading setups for a given day, and determine their historical profitability in similar market conditions",
-      "tech": ["Ruby on Rails", "JavaScript", "Python"],
-      "featured": false,
-      "repo": "https://github.com/LhordeS/trading-edge",
-      "demo": null,
-      "image": "/TradingEdge_screenshot.png"
     },
     {
       "id": "project-4",
