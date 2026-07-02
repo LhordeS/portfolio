@@ -6,8 +6,8 @@
   "projects": [
     {
       "id": "project-1",
-      "title": "TradingEdge — A market Intelligence Platform",
-      "description": "A platform that will detect the presence of predefined trading setups for a given day, and determine their historical profitability in similar market conditions",
+      "title": "TradingEdge — Financial Markets Intelligence",
+      "description": "A platform that will detect the presence of predefined trading setups for a given day, and determine their historical profitability in similar market conditions.",
       "tech": ["Ruby on Rails", "JavaScript", "Python"],
       "featured": true,
       "repo": "https://github.com/LhordeS/trading-edge",
@@ -18,7 +18,7 @@
       "id": "project-2",
       "title": "Entrika — Reclaim your Digital Identity",
       "description": "An application that allows users to exercise informed consent about their digital indentity by understanding how a company's terms of service and privacy policy impact their data and rights. Built with Ruby on Rails, PostgreSQL, and vanilla JavaScript.",
-      "tech": ["Ruby on Rails", "PostgreSQL", "JavaScript"],
+      "tech": ["Ruby on Rails", "PostgreSQL", "JavaScript", "Anthropic"],
       "featured": true,
       "repo": "https://github.com/fi11theblanks/entrika",
       "demo": null,
@@ -26,16 +26,26 @@
     },
     {
       "id": "project-3",
-      "title": "Who is the Villain? — AI-Powered Social Game",
+      "title": "Kifor — Charity and Social Impact",
+      "description": "A web application that helps match donors and charities based on what the donors can give and what the charities need.",
+      "tech": ["Ruby on Rails", "PostgreSQL"],
+      "featured": false,
+      "repo": "https://github.com/kwood6319/kifor-match",
+      "demo": null,
+      "image": "/KiFor_dashboard.png"
+    },
+    {
+      "id": "project-4",
+      "title": "Who is the Villain? — You Might Be the Guity One!",
       "description": "A fun social website where an AI judge evaluates participants's past questionable deeds. Built with Ruby on Rails and OpenAI's API, it demonstrates my backend skills and interest in AI integration.",
-      "tech": ["Ruby on Rails"],
+      "tech": ["Ruby on Rails", "PostgreSQL", "OpenAI"],
       "featured": false,
       "repo": "https://github.com/LhordeS/who-is-the-villain",
       "demo": null,
       "image": "/home.png"
     },
     {
-      "id": "project-4",
+      "id": "project-5",
       "title": "Portfolio Website",
       "description": "This portfolio itself — built with Vite, React and a static JSON content layer for easy updates.",
       "tech": ["React", "Vite", "Bootstrap"],
