@@ -9,7 +9,7 @@
       "title": "TradingEdge — A market Intelligence Platform",
       "description": "A platform that will detect the presence of predefined trading setups for a given day, and determine their historical profitability in similar market conditions",
       "tech": ["Ruby on Rails", "JavaScript", "Python"],
-      "featured": false,
+      "featured": true,
       "repo": "https://github.com/LhordeS/trading-edge",
       "demo": null,
       "image": "/TradingEdge_screenshot.png"
@@ -29,7 +29,7 @@
       "title": "Who is the Villain? — AI-Powered Social Game",
       "description": "A fun social website where an AI judge evaluates participants's past questionable deeds. Built with Ruby on Rails and OpenAI's API, it demonstrates my backend skills and interest in AI integration.",
       "tech": ["Ruby on Rails"],
-      "featured": true,
+      "featured": false,
       "repo": "https://github.com/LhordeS/who-is-the-villain",
       "demo": null,
       "image": "/home.png"
