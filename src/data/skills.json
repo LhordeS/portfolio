@@ -2,19 +2,19 @@
   "categories": [
     {
       "name": "Languages",
-      "skills": ["Ruby", "JavaScript", "TypeScript", "SQL"]
+      "skills": ["Ruby", "JavaScript", "TypeScript", "SQL", "Python"]
     },
     {
       "name": "Frameworks",
-      "skills": ["Ruby on Rails", "React", "Bootstrap"]
+      "skills": ["Ruby on Rails", "React", "Bootstrap", "Express"]
     },
     {
       "name": "Databases",
-      "skills": ["PostgreSQL"]
+      "skills": ["PostgreSQL", "SQLite"]
     },
     {
       "name": "Tools",
-      "skills": ["Git", "Heroku", "Notion"]
+      "skills": ["Git", "Heroku", "Notion", "Jira"]
     }
   ]
 }

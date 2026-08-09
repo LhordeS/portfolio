@@ -12,7 +12,7 @@ export default function ScrollObserver({ sectionIds, onChange }){
           onChange && onChange(entry.target.id)
         }
       })
-    }, { threshold: 0.45 })
+    }, { threshold: 0.1 })
 
     sections.forEach(s=>{
       s.classList.add('reveal')
