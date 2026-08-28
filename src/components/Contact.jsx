@@ -14,7 +14,9 @@ export default function Contact(){
           <IconButton href={site.social.github} label="GitHub" icon={<FaGithub/>} />
           <IconButton href={site.social.linkedin} label="LinkedIn" icon={<FaLinkedin/>} />
           <IconButton href={site.social.email} label="Email" icon={<FaEnvelope/>} />
-          <IconButton href={site.resume} label="Download CV" icon={<FaFilePdf/>} />
+          <IconButton href={site.resume} label="Résumé" icon={<FaFilePdf/>} />
+          <IconButton href={site.履歴書} label="履歴書" icon={<FaFilePdf/>} />
+          <IconButton href={site.職務経歴書} label="職務経歴書" icon={<FaFilePdf/>} />
         </div>
       </div>
     </section>
